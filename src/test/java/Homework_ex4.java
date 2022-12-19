@@ -2,7 +2,7 @@ import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.Test;
 
-public class Homework1_ex4 {
+public class Homework_ex4 {
 
     @Test
     public void homeworkEx4() {
